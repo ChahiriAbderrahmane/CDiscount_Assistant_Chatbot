@@ -11,9 +11,9 @@
   
   <p>A Customer Service Chatbot Trained on Cdiscount Data</p>
     🏓
-    <a href="" target="_blank">Demo YouTube</a>
+    <a href="https://youtu.be/slYyGwTECTQ" target="_blank">Demo YouTube</a>
     🔮
-    <a href="https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Bot/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Chatbot/issues" target="_blank">Request Feature</a>
 </div>
 <br>
 <div align="center">
