@@ -88,7 +88,7 @@ This project is a personal initiative and is not affiliated with Cdiscount. It w
 
 2. Install the required packages:
 
-```pip install -r chatbot_Cdiscount\\requirements.txt```
+```pip install -r .\chatbot_Cdiscount\requirements.txt```
 
 ### Usage : 
 
