@@ -1,6 +1,6 @@
 <div align="center">
   <a >
-    <img src="https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Bot/blob/master/assets/openart-image_4UuZ2nYy_1740848959131_raw.jpg" alt="Banner" width="150"><br>
+    <img src="https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Chatbot/blob/master/assets/openart-image_4UuZ2nYy_1740848959131_raw.jpg" alt="Banner" width="150"><br>
   </a>
 
   <div id="user-content-toc">
@@ -17,7 +17,7 @@
 </div>
 <br>
 <div align="center">
-      <img src="https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Bot/blob/master/assets/Logo_Cdiscount.svg" alt="Banner" width="150"><br>
+      <img src="https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Chatbot/blob/master/assets/Logo_Cdiscount.svg" alt="Banner" width="150"><br>
 </div>
 
 ## 📝 Table of Contents
@@ -35,13 +35,13 @@
 Check out some examples of the chatbot in action:
 
 1. **Example 1:**
-   ![image](https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Bot/blob/master/assets/1.png)
+   ![image](https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Chatbot/blob/master/assets/1.png)
 
 2. **Example 2:**
-   ![image](https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Bot/blob/master/assets/2.png)
+   ![image](https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Chatbot/blob/master/assets/2.png)
 
 3. **Example 3:**
-   ![image](https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Bot/blob/master/assets/3.png)
+   ![image](https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Chatbot/blob/master/assets/3.png)
 
 <a name="project-overview"></a>
 ## 🔬 **Project Overview** :
@@ -65,7 +65,7 @@ This chatbot has a memory feature that allows it to remember the last 5 messages
 
 ## **📝 Chatbot Architecture**
 
-![chatbot-architecture](https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Bot/blob/master/assets/Architecture_Cdiscount_bot.jpg)
+![chatbot-architecture](https://github.com/ChahiriAbderrahmane/CDiscount_Assistant_Chatbot/blob/master/assets/Architecture_Cdiscount_bot.jpg)
 
 
 <a name="technologies-used"></a>
