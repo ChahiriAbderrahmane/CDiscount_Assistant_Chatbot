@@ -55,7 +55,7 @@ The goal is to develop an AI-powered chatbot that interacts with users by provid
 
 The **Cdiscount Chatbot** works as follows:
 
-1. **Data Scraping**: Data is extracted from the official Cdiscount Q&A page using **Langchain's WebBaseLoader**.
+1. **Data Scraping**: Data is extracted from the official Cdiscount Q&A pages using **Langchain's WebBaseLoader**.
 2. **Data Processing**: The scraped content is processed using **Langchain's RecursiveCharacterTextSplitter**.
 3. **Embedding**: The processed data is converted into vectors with **llama-text-embed-v2** and stored in **Pinecone**.
 4. **User Interaction**: The **Gemini 2.0 Flash** model utilizes the data in Pinecone to interact with users and respond to their questions in a credible and professional manner.
