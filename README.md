@@ -61,7 +61,7 @@ The **Cdiscount Chatbot** works as follows:
 4. **User Interaction**: The **Gemini 2.0 Flash** model utilizes the data in Pinecone to interact with users and respond to their questions in a credible and professional manner.
 
 🔎 **Memory Feature**:  
-This chatbot has a memory feature that allows it to remember the last 5 messages of the conversation. By retaining this context, it provides more relevant, personalized responses, improving the overall user experience and maintaining continuity throughout the interaction.
+This chatbot has a memory feature that allows it to remember the last 5 messages of the conversation, and this number is scalable, ensuring more context-aware and coherent interactions. By retaining this context, it provides more relevant, personalized responses, improving the overall user experience and maintaining continuity throughout the interaction.
 
 ## **📝 Chatbot Architecture**
 
