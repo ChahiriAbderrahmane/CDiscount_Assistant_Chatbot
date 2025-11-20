@@ -84,7 +84,7 @@ This project is a personal initiative and is not affiliated with Cdiscount. It w
 ## 🖥️ Installation : 
 1. Clone the repository:
 
-```git clone private_repository_link```
+```git clone it's_private_repository_link```
 
 2. Install the required packages:
 
